@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   font-family: monospace, sans-serif;
   padding: 1em;
-  background-color: antiquewhite;
+  background-color: yellow;
   margin: 1em;
 }
 #introduction {
@@ -15,7 +15,7 @@ h1 {
 #paragraph-two {
   padding-left: 15rem;
   padding-bottom: 6rem;
-  background-color: blueviolet;
+  background-color: greenyellow;
   margin-left: 12rem;
   margin-right: 5rem;
   justify-self: right;
@@ -24,8 +24,10 @@ header {
   padding-top: 1rem;
   background-color: yellow;
   font-family: monospace;
-  font-size: larger}
+  font-size: larger;
+}
 .fas far fa-keyboard {
+  
   padding: 5rem;
   background-color: blue;
 }

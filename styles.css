@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(32, 180, 118);
+  text-align: center;
+  font-family: monospace, sans-serif;
+  padding: 1em;
+  background-color: antiquewhite;
+  margin: 1em;
+}
+#introduction {
+  text-align: left;
+  padding-top: 1em;
+  padding-bottom: 5em;
+  background-color: green;
+}
+#paragraph-two {
+  padding-left: 15rem;
+  padding-bottom: 6rem;
+  background-color: blueviolet;
+  margin-left: 12rem;
+  margin-right: 5rem;
+  justify-self: right;
+}
+header {
+  padding-top: 1rem;
+  background-color: yellow;
+  font-family: monospace;
+  font-size: larger}
+.fas far fa-keyboard {
+  padding: 5rem;
+  background-color: blue;
+}

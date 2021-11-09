@@ -11,13 +11,15 @@ h1 {
   padding-top: 1em;
   padding-bottom: 5em;
   background-color: green;
+ 
 }
 #paragraph-two {
+  text-align: left;
   padding-left: 15rem;
   padding-bottom: 6rem;
   background-color: greenyellow;
   margin-left: 12rem;
-  margin-right: 5rem;
+  margin-right: 3rem;
   justify-self: right;
 }
 header {
@@ -31,3 +33,6 @@ header {
   padding: 5rem;
   background-color: blue;
 }
+  img{
+    background-color: ;
+  }

@@ -22,7 +22,7 @@ h1 {
   margin-right: 3rem;
   justify-self: right;
 }
-header {
+.navigation {
   padding-top: 1rem;
   background-color: yellow;
   font-family: monospace;
@@ -34,5 +34,7 @@ header {
   background-color: blue;
 }
   img{
-    background-color: ;
+    background-color: white;
+    padding: 1em;
+    margin-left: 0.25rem;
   }

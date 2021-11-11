@@ -1,40 +1,22 @@
+header {
+  text-align: left;
+}
+body {
+  background-color: #2f2f2f;
+
+  margin-bottom: 1em;
+  margin-top: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
+}
 h1 {
-  color: rgb(32, 180, 118);
-  text-align: center;
-  font-family: monospace, sans-serif;
-  padding: 1em;
-  background-color: yellow;
-  margin: 1em;
-}
-#introduction {
+  color: greenyellow;
+  font-family: sans-serif;
+  font-size: 2em;
   text-align: left;
-  padding-top: 1em;
-  padding-bottom: 5em;
-  background-color: green;
- 
 }
-#paragraph-two {
+.nav-brand {
   text-align: left;
-  padding-left: 15rem;
-  padding-bottom: 6rem;
-  background-color: greenyellow;
-  margin-left: 12rem;
-  margin-right: 3rem;
-  justify-self: right;
-}
-.navigation {
-  padding-top: 1rem;
-  background-color: yellow;
+  color: greenyellow;
   font-family: monospace;
-  font-size: larger;
 }
-.fas far fa-keyboard {
-  
-  padding: 5rem;
-  background-color: blue;
-}
-  img{
-    background-color: white;
-    padding: 1em;
-    margin-left: 0.25rem;
-  }
